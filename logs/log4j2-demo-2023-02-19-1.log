@@ -1,0 +1,1023 @@
+2023-02-19 09:04:58.607  INFO DESKTOP-0NV8LK0 --- [           main] c.t.l.Log4j2Application                  : Starting Log4j2Application using Java 17.0.4.1 with PID 4392 (C:\Study\Spring Boot\log4j2\target\classes started by User in C:\Study\Spring Boot\log4j2)
+2023-02-19 09:04:58.611  INFO DESKTOP-0NV8LK0 --- [           main] c.t.l.Log4j2Application                  : No active profile set, falling back to 1 default profile: "default"
+2023-02-19 09:04:59.474  INFO DESKTOP-0NV8LK0 --- [           main] c.t.l.Log4j2Application                  : Started Log4j2Application in 1.378 seconds (process running for 2.213)
+2023-02-19 09:07:14.720  INFO DESKTOP-0NV8LK0 --- [           main] c.t.l.Log4j2Application                  : Starting Log4j2Application using Java 17.0.4.1 with PID 7948 (C:\Study\Spring Boot\log4j2\target\classes started by User in C:\Study\Spring Boot\log4j2)
+2023-02-19 09:07:14.724 DEBUG DESKTOP-0NV8LK0 --- [           main] c.t.l.Log4j2Application                  : Running with Spring Boot v3.0.2, Spring v6.0.4
+2023-02-19 09:07:14.725  INFO DESKTOP-0NV8LK0 --- [           main] c.t.l.Log4j2Application                  : No active profile set, falling back to 1 default profile: "default"
+2023-02-19 09:07:15.430  INFO DESKTOP-0NV8LK0 --- [           main] c.t.l.Log4j2Application                  : Started Log4j2Application in 1.102 seconds (process running for 1.99)
+2023-02-19 09:09:28.498  INFO DESKTOP-0NV8LK0 --- [           main] c.t.l.Log4j2Application                  : Starting Log4j2Application using Java 17.0.4.1 with PID 7344 (C:\Study\Spring Boot\log4j2\target\classes started by User in C:\Study\Spring Boot\log4j2)
+2023-02-19 09:09:28.501 DEBUG DESKTOP-0NV8LK0 --- [           main] c.t.l.Log4j2Application                  : Running with Spring Boot v3.0.2, Spring v6.0.4
+2023-02-19 09:09:28.502  INFO DESKTOP-0NV8LK0 --- [           main] c.t.l.Log4j2Application                  : No active profile set, falling back to 1 default profile: "default"
+2023-02-19 09:09:29.827  INFO DESKTOP-0NV8LK0 --- [           main] o.s.b.w.e.n.NettyWebServer               : Netty started on port 8080
+2023-02-19 09:09:29.837  INFO DESKTOP-0NV8LK0 --- [           main] c.t.l.Log4j2Application                  : Started Log4j2Application in 1.711 seconds (process running for 2.538)
+2023-02-19 09:10:23.041  INFO DESKTOP-0NV8LK0 --- [           main] c.t.l.Log4j2Application                  : Starting Log4j2Application using Java 17.0.4.1 with PID 2780 (C:\Study\Spring Boot\log4j2\target\classes started by User in C:\Study\Spring Boot\log4j2)
+2023-02-19 09:10:23.042 DEBUG DESKTOP-0NV8LK0 --- [           main] c.t.l.Log4j2Application                  : Running with Spring Boot v3.0.2, Spring v6.0.4
+2023-02-19 09:10:23.044  INFO DESKTOP-0NV8LK0 --- [           main] c.t.l.Log4j2Application                  : No active profile set, falling back to 1 default profile: "default"
+2023-02-19 09:10:24.367  INFO DESKTOP-0NV8LK0 --- [           main] o.s.b.w.e.n.NettyWebServer               : Netty started on port 7001
+2023-02-19 09:10:24.379  INFO DESKTOP-0NV8LK0 --- [           main] c.t.l.Log4j2Application                  : Started Log4j2Application in 1.691 seconds (process running for 2.572)
+2023-02-19 09:18:02.142  INFO DESKTOP-0NV8LK0 --- [           main] c.t.l.Log4j2Application                  : Starting Log4j2Application using Java 17.0.4.1 with PID 9264 (C:\Study\Spring Boot\log4j2\target\classes started by User in C:\Study\Spring Boot\log4j2)
+2023-02-19 09:18:02.144 DEBUG DESKTOP-0NV8LK0 --- [           main] c.t.l.Log4j2Application                  : Running with Spring Boot v3.0.2, Spring v6.0.4
+2023-02-19 09:18:02.146  INFO DESKTOP-0NV8LK0 --- [           main] c.t.l.Log4j2Application                  : No active profile set, falling back to 1 default profile: "default"
+2023-02-19 09:18:03.548  INFO DESKTOP-0NV8LK0 --- [           main] o.s.b.w.e.n.NettyWebServer               : Netty started on port 7001
+2023-02-19 09:18:03.557  INFO DESKTOP-0NV8LK0 --- [           main] c.t.l.Log4j2Application                  : Started Log4j2Application in 1.783 seconds (process running for 2.89)
+2023-02-19 09:18:27.280 DEBUG DESKTOP-0NV8LK0 --- [ctor-http-nio-3] c.t.l.c.getEndpoints                     : Inside Controller
+2023-02-19 09:21:25.859 [INFO  ] thilan.log4j2.Log4j2Application - Starting Log4j2Application using Java 17.0.4.1 with PID 14384 (C:\Study\Spring Boot\log4j2\target\classes started by User in C:\Study\Spring Boot\log4j2)
+2023-02-19 09:21:25.862 [DEBUG ] thilan.log4j2.Log4j2Application - Running with Spring Boot v3.0.2, Spring v6.0.4
+2023-02-19 09:21:25.863 [INFO  ] thilan.log4j2.Log4j2Application - No active profile set, falling back to 1 default profile: "default"
+2023-02-19 09:21:27.252 [INFO  ] embedded.netty.NettyWebServer - Netty started on port 7001
+2023-02-19 09:21:27.262 [INFO  ] thilan.log4j2.Log4j2Application - Started Log4j2Application in 1.78 seconds (process running for 2.624)
+2023-02-19 09:21:34.477 [DEBUG ] log4j2.controller.getEndpoints - Inside Controller
+2023-02-19 11:11:30.911 [INFO  ] thilan.log4j2.Log4j2Application - Starting Log4j2Application using Java 17.0.4.1 with PID 14856 (C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2\target\classes started by User in C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2)
+2023-02-19 11:11:30.914 [DEBUG ] thilan.log4j2.Log4j2Application - Running with Spring Boot v3.0.2, Spring v6.0.4
+2023-02-19 11:11:30.916 [INFO  ] thilan.log4j2.Log4j2Application - No active profile set, falling back to 1 default profile: "default"
+2023-02-19 11:11:31.648 [INFO  ] jasyptspringboot.configuration.EnableEncryptablePropertiesBeanFactoryPostProcessor - Post-processing PropertySource instances
+2023-02-19 11:11:31.652 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Skipping PropertySource configurationProperties [class org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource
+2023-02-19 11:11:31.654 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource systemProperties [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2023-02-19 11:11:31.654 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableSystemEnvironmentPropertySourceWrapper
+2023-02-19 11:11:31.655 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2023-02-19 11:11:31.655 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource Config resource 'class path resource [application.properties]' via location 'optional:classpath:/' [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+2023-02-19 11:11:31.703 [INFO  ] jasyptspringboot.filter.DefaultLazyPropertyFilter - Property Filter custom Bean not found with name 'encryptablePropertyFilter'. Initializing Default Property Filter
+2023-02-19 11:11:31.723 [INFO  ] jasyptspringboot.resolver.DefaultLazyPropertyResolver - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2023-02-19 11:11:31.725 [INFO  ] jasyptspringboot.detector.DefaultLazyPropertyDetector - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2023-02-19 11:11:31.732 [INFO  ] jasyptspringboot.encryptor.DefaultLazyEncryptor - String Encryptor custom Bean not found with name 'jasyptStringEncryptor'. Initializing Default String Encryptor
+2023-02-19 11:11:31.749 [INFO  ] jasyptspringboot.encryptor.DefaultLazyEncryptor - String Encryptor custom Bean not found with name 'jasyptStringEncryptor'. Initializing Default String Encryptor
+2023-02-19 11:11:31.756 [INFO  ] jasyptspringboot.encryptor.DefaultLazyEncryptor - String Encryptor custom Bean not found with name 'jasyptStringEncryptor'. Initializing Default String Encryptor
+2023-02-19 11:11:31.759 [INFO  ] jasyptspringboot.encryptor.DefaultLazyEncryptor - String Encryptor custom Bean not found with name 'jasyptStringEncryptor'. Initializing Default String Encryptor
+2023-02-19 11:11:31.764 [INFO  ] jasyptspringboot.encryptor.DefaultLazyEncryptor - String Encryptor custom Bean not found with name 'jasyptStringEncryptor'. Initializing Default String Encryptor
+2023-02-19 11:11:31.770 [WARN  ] context.annotation.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'getEndpoints': Unsatisfied dependency expressed through field 'helloService': Error creating bean with name 'helloService': Injection of autowired dependencies failed
+2023-02-19 11:11:31.781 [INFO  ] autoconfigure.logging.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-02-19 11:11:31.802 [ERROR ] springframework.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'getEndpoints': Unsatisfied dependency expressed through field 'helloService': Error creating bean with name 'helloService': Injection of autowired dependencies failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:712) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:692) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:133) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:481) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1397) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:598) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:521) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:961) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:915) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:584) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:432) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1302) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1291) ~[spring-boot-3.0.2.jar:3.0.2]
+	at com.thilan.log4j2.Log4j2Application.main(Log4j2Application.java:12) ~[classes/:?]
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'helloService': Injection of autowired dependencies failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:487) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1397) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:598) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:521) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:254) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1405) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1325) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:709) ~[spring-beans-6.0.4.jar:6.0.4]
+	... 19 more
+Caused by: java.lang.IllegalStateException: either 'jasypt.encryptor.password', one of ['jasypt.encryptor.private-key-string', 'jasypt.encryptor.private-key-location'] for asymmetric encryption, or one of ['jasypt.encryptor.gcm-secret-key-string', 'jasypt.encryptor.gcm-secret-key-location', 'jasypt.encryptor.gcm-secret-key-password'] for AES/GCM encryption must be provided for Password-based or Asymmetric encryption
+	at com.ulisesbocchio.jasyptspringboot.configuration.StringEncryptorBuilder.build(StringEncryptorBuilder.java:35) ~[jasypt-spring-boot-3.0.4.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.encryptor.DefaultLazyEncryptor.createDefault(DefaultLazyEncryptor.java:47) ~[jasypt-spring-boot-3.0.4.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.encryptor.DefaultLazyEncryptor.lambda$new$2(DefaultLazyEncryptor.java:38) ~[jasypt-spring-boot-3.0.4.jar:?]
+	at java.util.Optional.orElseGet(Optional.java:364) ~[?:?]
+	at com.ulisesbocchio.jasyptspringboot.encryptor.DefaultLazyEncryptor.lambda$new$3(DefaultLazyEncryptor.java:33) ~[jasypt-spring-boot-3.0.4.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.util.Singleton.lambda$new$6(Singleton.java:42) ~[jasypt-spring-boot-3.0.4.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.util.Singleton.get(Singleton.java:53) ~[jasypt-spring-boot-3.0.4.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.encryptor.DefaultLazyEncryptor.decrypt(DefaultLazyEncryptor.java:57) ~[jasypt-spring-boot-3.0.4.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.resolver.DefaultPropertyResolver.lambda$resolvePropertyValue$0(DefaultPropertyResolver.java:44) ~[jasypt-spring-boot-3.0.4.jar:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at com.ulisesbocchio.jasyptspringboot.resolver.DefaultPropertyResolver.resolvePropertyValue(DefaultPropertyResolver.java:40) ~[jasypt-spring-boot-3.0.4.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.resolver.DefaultLazyPropertyResolver.resolvePropertyValue(DefaultLazyPropertyResolver.java:50) ~[jasypt-spring-boot-3.0.4.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.EncryptablePropertySource.getProperty(EncryptablePropertySource.java:28) ~[jasypt-spring-boot-3.0.4.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.caching.CachingDelegateEncryptablePropertySource.getProperty(CachingDelegateEncryptablePropertySource.java:44) ~[jasypt-spring-boot-3.0.4.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.wrapper.EncryptableMapPropertySourceWrapper.getProperty(EncryptableMapPropertySourceWrapper.java:29) ~[jasypt-spring-boot-3.0.4.jar:?]
+	at org.springframework.core.env.PropertySourcesPropertyResolver.getProperty(PropertySourcesPropertyResolver.java:85) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver$DefaultResolver.getProperty(ConfigurationPropertySourcesPropertyResolver.java:123) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver.findPropertyValue(ConfigurationPropertySourcesPropertyResolver.java:97) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver.getProperty(ConfigurationPropertySourcesPropertyResolver.java:74) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver.getProperty(ConfigurationPropertySourcesPropertyResolver.java:60) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.core.env.AbstractEnvironment.getProperty(AbstractEnvironment.java:552) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer$1.getProperty(PropertySourcesPlaceholderConfigurer.java:153) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer$1.getProperty(PropertySourcesPlaceholderConfigurer.java:149) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.PropertySourcesPropertyResolver.getProperty(PropertySourcesPropertyResolver.java:85) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.PropertySourcesPropertyResolver.getPropertyAsRawString(PropertySourcesPropertyResolver.java:74) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:153) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:126) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:239) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:210) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:191) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:920) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1346) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1325) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:709) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:692) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:133) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:481) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1397) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:598) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:521) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:254) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1405) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1325) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:709) ~[spring-beans-6.0.4.jar:6.0.4]
+	... 19 more
+2023-02-19 11:13:26.544 [INFO  ] thilan.log4j2.Log4j2Application - Starting Log4j2Application using Java 17.0.4.1 with PID 7880 (C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2\target\classes started by User in C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2)
+2023-02-19 11:13:26.546 [DEBUG ] thilan.log4j2.Log4j2Application - Running with Spring Boot v3.0.2, Spring v6.0.4
+2023-02-19 11:13:26.548 [INFO  ] thilan.log4j2.Log4j2Application - No active profile set, falling back to 1 default profile: "default"
+2023-02-19 11:13:27.207 [INFO  ] jasyptspringboot.configuration.EnableEncryptablePropertiesBeanFactoryPostProcessor - Post-processing PropertySource instances
+2023-02-19 11:13:27.212 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Skipping PropertySource configurationProperties [class org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource
+2023-02-19 11:13:27.214 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource systemProperties [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2023-02-19 11:13:27.214 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableSystemEnvironmentPropertySourceWrapper
+2023-02-19 11:13:27.215 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2023-02-19 11:13:27.215 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource Config resource 'class path resource [application.properties]' via location 'optional:classpath:/' [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+2023-02-19 11:13:27.261 [INFO  ] jasyptspringboot.filter.DefaultLazyPropertyFilter - Property Filter custom Bean not found with name 'encryptablePropertyFilter'. Initializing Default Property Filter
+2023-02-19 11:13:27.282 [INFO  ] jasyptspringboot.resolver.DefaultLazyPropertyResolver - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2023-02-19 11:13:27.285 [INFO  ] jasyptspringboot.detector.DefaultLazyPropertyDetector - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2023-02-19 11:13:27.294 [INFO  ] jasyptspringboot.encryptor.DefaultLazyEncryptor - String Encryptor custom Bean not found with name 'jasyptStringEncryptor'. Initializing Default String Encryptor
+2023-02-19 11:13:27.306 [INFO  ] jasyptspringboot.encryptor.DefaultLazyEncryptor - String Encryptor custom Bean not found with name 'jasyptStringEncryptor'. Initializing Default String Encryptor
+2023-02-19 11:13:27.319 [INFO  ] jasyptspringboot.encryptor.DefaultLazyEncryptor - String Encryptor custom Bean not found with name 'jasyptStringEncryptor'. Initializing Default String Encryptor
+2023-02-19 11:13:27.336 [INFO  ] jasyptspringboot.encryptor.DefaultLazyEncryptor - String Encryptor custom Bean not found with name 'jasyptStringEncryptor'. Initializing Default String Encryptor
+2023-02-19 11:13:27.339 [INFO  ] jasyptspringboot.encryptor.DefaultLazyEncryptor - String Encryptor custom Bean not found with name 'jasyptStringEncryptor'. Initializing Default String Encryptor
+2023-02-19 11:13:27.344 [WARN  ] context.annotation.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'getEndpoints': Injection of autowired dependencies failed
+2023-02-19 11:13:27.355 [INFO  ] autoconfigure.logging.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-02-19 11:13:27.378 [ERROR ] springframework.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'getEndpoints': Injection of autowired dependencies failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:487) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1397) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:598) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:521) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:961) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:915) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:584) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:432) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1302) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1291) ~[spring-boot-3.0.2.jar:3.0.2]
+	at com.thilan.log4j2.Log4j2Application.main(Log4j2Application.java:12) ~[classes/:?]
+Caused by: java.lang.IllegalStateException: either 'jasypt.encryptor.password', one of ['jasypt.encryptor.private-key-string', 'jasypt.encryptor.private-key-location'] for asymmetric encryption, or one of ['jasypt.encryptor.gcm-secret-key-string', 'jasypt.encryptor.gcm-secret-key-location', 'jasypt.encryptor.gcm-secret-key-password'] for AES/GCM encryption must be provided for Password-based or Asymmetric encryption
+	at com.ulisesbocchio.jasyptspringboot.configuration.StringEncryptorBuilder.build(StringEncryptorBuilder.java:35) ~[jasypt-spring-boot-3.0.4.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.encryptor.DefaultLazyEncryptor.createDefault(DefaultLazyEncryptor.java:47) ~[jasypt-spring-boot-3.0.4.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.encryptor.DefaultLazyEncryptor.lambda$new$2(DefaultLazyEncryptor.java:38) ~[jasypt-spring-boot-3.0.4.jar:?]
+	at java.util.Optional.orElseGet(Optional.java:364) ~[?:?]
+	at com.ulisesbocchio.jasyptspringboot.encryptor.DefaultLazyEncryptor.lambda$new$3(DefaultLazyEncryptor.java:33) ~[jasypt-spring-boot-3.0.4.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.util.Singleton.lambda$new$6(Singleton.java:42) ~[jasypt-spring-boot-3.0.4.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.util.Singleton.get(Singleton.java:53) ~[jasypt-spring-boot-3.0.4.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.encryptor.DefaultLazyEncryptor.decrypt(DefaultLazyEncryptor.java:57) ~[jasypt-spring-boot-3.0.4.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.resolver.DefaultPropertyResolver.lambda$resolvePropertyValue$0(DefaultPropertyResolver.java:44) ~[jasypt-spring-boot-3.0.4.jar:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at com.ulisesbocchio.jasyptspringboot.resolver.DefaultPropertyResolver.resolvePropertyValue(DefaultPropertyResolver.java:40) ~[jasypt-spring-boot-3.0.4.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.resolver.DefaultLazyPropertyResolver.resolvePropertyValue(DefaultLazyPropertyResolver.java:50) ~[jasypt-spring-boot-3.0.4.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.EncryptablePropertySource.getProperty(EncryptablePropertySource.java:28) ~[jasypt-spring-boot-3.0.4.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.caching.CachingDelegateEncryptablePropertySource.getProperty(CachingDelegateEncryptablePropertySource.java:44) ~[jasypt-spring-boot-3.0.4.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.wrapper.EncryptableMapPropertySourceWrapper.getProperty(EncryptableMapPropertySourceWrapper.java:29) ~[jasypt-spring-boot-3.0.4.jar:?]
+	at org.springframework.core.env.PropertySourcesPropertyResolver.getProperty(PropertySourcesPropertyResolver.java:85) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver$DefaultResolver.getProperty(ConfigurationPropertySourcesPropertyResolver.java:123) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver.findPropertyValue(ConfigurationPropertySourcesPropertyResolver.java:97) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver.getProperty(ConfigurationPropertySourcesPropertyResolver.java:74) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver.getProperty(ConfigurationPropertySourcesPropertyResolver.java:60) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.core.env.AbstractEnvironment.getProperty(AbstractEnvironment.java:552) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer$1.getProperty(PropertySourcesPlaceholderConfigurer.java:153) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer$1.getProperty(PropertySourcesPlaceholderConfigurer.java:149) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.PropertySourcesPropertyResolver.getProperty(PropertySourcesPropertyResolver.java:85) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.PropertySourcesPropertyResolver.getPropertyAsRawString(PropertySourcesPropertyResolver.java:74) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:153) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:126) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:239) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:210) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:191) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:920) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1346) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1325) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:709) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:692) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:133) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:481) ~[spring-beans-6.0.4.jar:6.0.4]
+	... 16 more
+2023-02-19 11:13:50.216 [INFO  ] thilan.log4j2.Log4j2Application - Starting Log4j2Application using Java 17.0.4.1 with PID 11736 (C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2\target\classes started by User in C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2)
+2023-02-19 11:13:50.218 [DEBUG ] thilan.log4j2.Log4j2Application - Running with Spring Boot v3.0.2, Spring v6.0.4
+2023-02-19 11:13:50.220 [INFO  ] thilan.log4j2.Log4j2Application - No active profile set, falling back to 1 default profile: "default"
+2023-02-19 11:13:50.796 [INFO  ] jasyptspringboot.configuration.EnableEncryptablePropertiesBeanFactoryPostProcessor - Post-processing PropertySource instances
+2023-02-19 11:13:50.800 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Skipping PropertySource configurationProperties [class org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource
+2023-02-19 11:13:50.802 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource systemProperties [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2023-02-19 11:13:50.802 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableSystemEnvironmentPropertySourceWrapper
+2023-02-19 11:13:50.803 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2023-02-19 11:13:50.803 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource Config resource 'class path resource [application.properties]' via location 'optional:classpath:/' [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+2023-02-19 11:13:50.844 [INFO  ] jasyptspringboot.filter.DefaultLazyPropertyFilter - Property Filter custom Bean not found with name 'encryptablePropertyFilter'. Initializing Default Property Filter
+2023-02-19 11:13:50.868 [INFO  ] jasyptspringboot.resolver.DefaultLazyPropertyResolver - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2023-02-19 11:13:50.871 [INFO  ] jasyptspringboot.detector.DefaultLazyPropertyDetector - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2023-02-19 11:13:50.879 [INFO  ] jasyptspringboot.encryptor.DefaultLazyEncryptor - String Encryptor custom Bean not found with name 'jasyptStringEncryptor'. Initializing Default String Encryptor
+2023-02-19 11:13:50.892 [INFO  ] jasyptspringboot.configuration.StringEncryptorBuilder - Encryptor config not found for property jasypt.encryptor.algorithm, using default value: PBEWITHHMACSHA512ANDAES_256
+2023-02-19 11:13:50.893 [INFO  ] jasyptspringboot.configuration.StringEncryptorBuilder - Encryptor config not found for property jasypt.encryptor.key-obtention-iterations, using default value: 1000
+2023-02-19 11:13:50.894 [INFO  ] jasyptspringboot.configuration.StringEncryptorBuilder - Encryptor config not found for property jasypt.encryptor.pool-size, using default value: 1
+2023-02-19 11:13:50.894 [INFO  ] jasyptspringboot.configuration.StringEncryptorBuilder - Encryptor config not found for property jasypt.encryptor.provider-name, using default value: null
+2023-02-19 11:13:50.895 [INFO  ] jasyptspringboot.configuration.StringEncryptorBuilder - Encryptor config not found for property jasypt.encryptor.provider-class-name, using default value: null
+2023-02-19 11:13:50.895 [INFO  ] jasyptspringboot.configuration.StringEncryptorBuilder - Encryptor config not found for property jasypt.encryptor.salt-generator-classname, using default value: org.jasypt.salt.RandomSaltGenerator
+2023-02-19 11:13:50.908 [INFO  ] jasyptspringboot.configuration.StringEncryptorBuilder - Encryptor config not found for property jasypt.encryptor.iv-generator-classname, using default value: org.jasypt.iv.RandomIvGenerator
+2023-02-19 11:13:50.909 [INFO  ] jasyptspringboot.configuration.StringEncryptorBuilder - Encryptor config not found for property jasypt.encryptor.string-output-type, using default value: base64
+2023-02-19 11:13:50.952 [WARN  ] context.annotation.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'getEndpoints': Injection of autowired dependencies failed
+2023-02-19 11:13:50.966 [INFO  ] autoconfigure.logging.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-02-19 11:13:51.011 [ERROR ] springframework.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'getEndpoints': Injection of autowired dependencies failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:487) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1397) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:598) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:521) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:961) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:915) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:584) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:432) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1302) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1291) ~[spring-boot-3.0.2.jar:3.0.2]
+	at com.thilan.log4j2.Log4j2Application.main(Log4j2Application.java:12) ~[classes/:?]
+Caused by: com.ulisesbocchio.jasyptspringboot.exception.DecryptionException: Unable to decrypt property: ENC(dQWokHUXXFe+OqXRZYWu22BpXoRZ0Drt) resolved to: ENC(dQWokHUXXFe+OqXRZYWu22BpXoRZ0Drt). Decryption of Properties failed,  make sure encryption/decryption passwords match
+	at com.ulisesbocchio.jasyptspringboot.resolver.DefaultPropertyResolver.lambda$resolvePropertyValue$0(DefaultPropertyResolver.java:46) ~[jasypt-spring-boot-3.0.4.jar:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at com.ulisesbocchio.jasyptspringboot.resolver.DefaultPropertyResolver.resolvePropertyValue(DefaultPropertyResolver.java:40) ~[jasypt-spring-boot-3.0.4.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.resolver.DefaultLazyPropertyResolver.resolvePropertyValue(DefaultLazyPropertyResolver.java:50) ~[jasypt-spring-boot-3.0.4.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.EncryptablePropertySource.getProperty(EncryptablePropertySource.java:28) ~[jasypt-spring-boot-3.0.4.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.caching.CachingDelegateEncryptablePropertySource.getProperty(CachingDelegateEncryptablePropertySource.java:44) ~[jasypt-spring-boot-3.0.4.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.wrapper.EncryptableMapPropertySourceWrapper.getProperty(EncryptableMapPropertySourceWrapper.java:29) ~[jasypt-spring-boot-3.0.4.jar:?]
+	at org.springframework.core.env.PropertySourcesPropertyResolver.getProperty(PropertySourcesPropertyResolver.java:85) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver$DefaultResolver.getProperty(ConfigurationPropertySourcesPropertyResolver.java:123) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver.findPropertyValue(ConfigurationPropertySourcesPropertyResolver.java:97) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver.getProperty(ConfigurationPropertySourcesPropertyResolver.java:74) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver.getProperty(ConfigurationPropertySourcesPropertyResolver.java:60) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.core.env.AbstractEnvironment.getProperty(AbstractEnvironment.java:552) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer$1.getProperty(PropertySourcesPlaceholderConfigurer.java:153) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer$1.getProperty(PropertySourcesPlaceholderConfigurer.java:149) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.PropertySourcesPropertyResolver.getProperty(PropertySourcesPropertyResolver.java:85) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.PropertySourcesPropertyResolver.getPropertyAsRawString(PropertySourcesPropertyResolver.java:74) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:153) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:126) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:239) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:210) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:191) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:920) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1346) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1325) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:709) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:692) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:133) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:481) ~[spring-beans-6.0.4.jar:6.0.4]
+	... 16 more
+Caused by: org.jasypt.exceptions.EncryptionOperationNotPossibleException
+	at org.jasypt.encryption.pbe.StandardPBEByteEncryptor.decrypt(StandardPBEByteEncryptor.java:1054) ~[jasypt-1.9.3.jar:?]
+	at org.jasypt.encryption.pbe.StandardPBEStringEncryptor.decrypt(StandardPBEStringEncryptor.java:738) ~[jasypt-1.9.3.jar:?]
+	at org.jasypt.encryption.pbe.PooledPBEStringEncryptor.decrypt(PooledPBEStringEncryptor.java:511) ~[jasypt-1.9.3.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.encryptor.DefaultLazyEncryptor.decrypt(DefaultLazyEncryptor.java:57) ~[jasypt-spring-boot-3.0.4.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.resolver.DefaultPropertyResolver.lambda$resolvePropertyValue$0(DefaultPropertyResolver.java:44) ~[jasypt-spring-boot-3.0.4.jar:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at com.ulisesbocchio.jasyptspringboot.resolver.DefaultPropertyResolver.resolvePropertyValue(DefaultPropertyResolver.java:40) ~[jasypt-spring-boot-3.0.4.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.resolver.DefaultLazyPropertyResolver.resolvePropertyValue(DefaultLazyPropertyResolver.java:50) ~[jasypt-spring-boot-3.0.4.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.EncryptablePropertySource.getProperty(EncryptablePropertySource.java:28) ~[jasypt-spring-boot-3.0.4.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.caching.CachingDelegateEncryptablePropertySource.getProperty(CachingDelegateEncryptablePropertySource.java:44) ~[jasypt-spring-boot-3.0.4.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.wrapper.EncryptableMapPropertySourceWrapper.getProperty(EncryptableMapPropertySourceWrapper.java:29) ~[jasypt-spring-boot-3.0.4.jar:?]
+	at org.springframework.core.env.PropertySourcesPropertyResolver.getProperty(PropertySourcesPropertyResolver.java:85) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver$DefaultResolver.getProperty(ConfigurationPropertySourcesPropertyResolver.java:123) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver.findPropertyValue(ConfigurationPropertySourcesPropertyResolver.java:97) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver.getProperty(ConfigurationPropertySourcesPropertyResolver.java:74) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver.getProperty(ConfigurationPropertySourcesPropertyResolver.java:60) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.core.env.AbstractEnvironment.getProperty(AbstractEnvironment.java:552) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer$1.getProperty(PropertySourcesPlaceholderConfigurer.java:153) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer$1.getProperty(PropertySourcesPlaceholderConfigurer.java:149) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.PropertySourcesPropertyResolver.getProperty(PropertySourcesPropertyResolver.java:85) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.PropertySourcesPropertyResolver.getPropertyAsRawString(PropertySourcesPropertyResolver.java:74) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:153) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:126) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:239) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:210) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:191) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:920) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1346) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1325) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:709) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:692) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:133) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:481) ~[spring-beans-6.0.4.jar:6.0.4]
+	... 16 more
+2023-02-19 11:16:42.071 [INFO  ] thilan.log4j2.Log4j2Application - Starting Log4j2Application using Java 17.0.4.1 with PID 10396 (C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2\target\classes started by User in C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2)
+2023-02-19 11:16:42.073 [DEBUG ] thilan.log4j2.Log4j2Application - Running with Spring Boot v3.0.2, Spring v6.0.4
+2023-02-19 11:16:42.074 [INFO  ] thilan.log4j2.Log4j2Application - No active profile set, falling back to 1 default profile: "default"
+2023-02-19 11:16:42.751 [INFO  ] jasyptspringboot.configuration.EnableEncryptablePropertiesBeanFactoryPostProcessor - Post-processing PropertySource instances
+2023-02-19 11:16:42.754 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Skipping PropertySource configurationProperties [class org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource
+2023-02-19 11:16:42.756 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource systemProperties [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2023-02-19 11:16:42.756 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableSystemEnvironmentPropertySourceWrapper
+2023-02-19 11:16:42.756 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2023-02-19 11:16:42.756 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource Config resource 'class path resource [application.properties]' via location 'optional:classpath:/' [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+2023-02-19 11:16:42.801 [INFO  ] jasyptspringboot.filter.DefaultLazyPropertyFilter - Property Filter custom Bean not found with name 'encryptablePropertyFilter'. Initializing Default Property Filter
+2023-02-19 11:16:42.827 [INFO  ] jasyptspringboot.resolver.DefaultLazyPropertyResolver - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2023-02-19 11:16:42.830 [INFO  ] jasyptspringboot.detector.DefaultLazyPropertyDetector - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2023-02-19 11:16:42.838 [INFO  ] jasyptspringboot.encryptor.DefaultLazyEncryptor - String Encryptor custom Bean not found with name 'jasyptStringEncryptor'. Initializing Default String Encryptor
+2023-02-19 11:16:42.853 [INFO  ] jasyptspringboot.configuration.StringEncryptorBuilder - Encryptor config not found for property jasypt.encryptor.algorithm, using default value: PBEWITHHMACSHA512ANDAES_256
+2023-02-19 11:16:42.854 [INFO  ] jasyptspringboot.configuration.StringEncryptorBuilder - Encryptor config not found for property jasypt.encryptor.key-obtention-iterations, using default value: 1000
+2023-02-19 11:16:42.855 [INFO  ] jasyptspringboot.configuration.StringEncryptorBuilder - Encryptor config not found for property jasypt.encryptor.pool-size, using default value: 1
+2023-02-19 11:16:42.855 [INFO  ] jasyptspringboot.configuration.StringEncryptorBuilder - Encryptor config not found for property jasypt.encryptor.provider-name, using default value: null
+2023-02-19 11:16:42.855 [INFO  ] jasyptspringboot.configuration.StringEncryptorBuilder - Encryptor config not found for property jasypt.encryptor.provider-class-name, using default value: null
+2023-02-19 11:16:42.856 [INFO  ] jasyptspringboot.configuration.StringEncryptorBuilder - Encryptor config not found for property jasypt.encryptor.salt-generator-classname, using default value: org.jasypt.salt.RandomSaltGenerator
+2023-02-19 11:16:42.870 [INFO  ] jasyptspringboot.configuration.StringEncryptorBuilder - Encryptor config not found for property jasypt.encryptor.iv-generator-classname, using default value: org.jasypt.iv.RandomIvGenerator
+2023-02-19 11:16:42.872 [INFO  ] jasyptspringboot.configuration.StringEncryptorBuilder - Encryptor config not found for property jasypt.encryptor.string-output-type, using default value: base64
+2023-02-19 11:16:42.914 [WARN  ] context.annotation.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'getEndpoints': Injection of autowired dependencies failed
+2023-02-19 11:16:42.926 [INFO  ] autoconfigure.logging.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-02-19 11:16:42.970 [ERROR ] springframework.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'getEndpoints': Injection of autowired dependencies failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:487) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1397) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:598) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:521) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:961) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:915) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:584) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:432) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1302) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1291) ~[spring-boot-3.0.2.jar:3.0.2]
+	at com.thilan.log4j2.Log4j2Application.main(Log4j2Application.java:12) ~[classes/:?]
+Caused by: com.ulisesbocchio.jasyptspringboot.exception.DecryptionException: Unable to decrypt property: ENC(dQWokHUXXFe+OqXRZYWu22BpXoRZ0Drt) resolved to: ENC(dQWokHUXXFe+OqXRZYWu22BpXoRZ0Drt). Decryption of Properties failed,  make sure encryption/decryption passwords match
+	at com.ulisesbocchio.jasyptspringboot.resolver.DefaultPropertyResolver.lambda$resolvePropertyValue$0(DefaultPropertyResolver.java:63) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at com.ulisesbocchio.jasyptspringboot.resolver.DefaultPropertyResolver.resolvePropertyValue(DefaultPropertyResolver.java:57) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.resolver.DefaultLazyPropertyResolver.resolvePropertyValue(DefaultLazyPropertyResolver.java:69) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.caching.CachingDelegateEncryptablePropertySource.getProperty(CachingDelegateEncryptablePropertySource.java:74) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.wrapper.EncryptableMapPropertySourceWrapper.getProperty(EncryptableMapPropertySourceWrapper.java:40) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at org.springframework.core.env.PropertySourcesPropertyResolver.getProperty(PropertySourcesPropertyResolver.java:85) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver$DefaultResolver.getProperty(ConfigurationPropertySourcesPropertyResolver.java:123) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver.findPropertyValue(ConfigurationPropertySourcesPropertyResolver.java:97) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver.getProperty(ConfigurationPropertySourcesPropertyResolver.java:74) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver.getProperty(ConfigurationPropertySourcesPropertyResolver.java:60) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.core.env.AbstractEnvironment.getProperty(AbstractEnvironment.java:552) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer$1.getProperty(PropertySourcesPlaceholderConfigurer.java:153) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer$1.getProperty(PropertySourcesPlaceholderConfigurer.java:149) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.PropertySourcesPropertyResolver.getProperty(PropertySourcesPropertyResolver.java:85) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.PropertySourcesPropertyResolver.getPropertyAsRawString(PropertySourcesPropertyResolver.java:74) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:153) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:126) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:239) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:210) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:191) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:920) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1346) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1325) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:709) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:692) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:133) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:481) ~[spring-beans-6.0.4.jar:6.0.4]
+	... 16 more
+Caused by: org.jasypt.exceptions.EncryptionOperationNotPossibleException
+	at org.jasypt.encryption.pbe.StandardPBEByteEncryptor.decrypt(StandardPBEByteEncryptor.java:1054) ~[jasypt-1.9.3.jar:?]
+	at org.jasypt.encryption.pbe.StandardPBEStringEncryptor.decrypt(StandardPBEStringEncryptor.java:738) ~[jasypt-1.9.3.jar:?]
+	at org.jasypt.encryption.pbe.PooledPBEStringEncryptor.decrypt(PooledPBEStringEncryptor.java:511) ~[jasypt-1.9.3.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.encryptor.DefaultLazyEncryptor.decrypt(DefaultLazyEncryptor.java:73) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.resolver.DefaultPropertyResolver.lambda$resolvePropertyValue$0(DefaultPropertyResolver.java:61) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at com.ulisesbocchio.jasyptspringboot.resolver.DefaultPropertyResolver.resolvePropertyValue(DefaultPropertyResolver.java:57) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.resolver.DefaultLazyPropertyResolver.resolvePropertyValue(DefaultLazyPropertyResolver.java:69) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.caching.CachingDelegateEncryptablePropertySource.getProperty(CachingDelegateEncryptablePropertySource.java:74) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.wrapper.EncryptableMapPropertySourceWrapper.getProperty(EncryptableMapPropertySourceWrapper.java:40) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at org.springframework.core.env.PropertySourcesPropertyResolver.getProperty(PropertySourcesPropertyResolver.java:85) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver$DefaultResolver.getProperty(ConfigurationPropertySourcesPropertyResolver.java:123) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver.findPropertyValue(ConfigurationPropertySourcesPropertyResolver.java:97) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver.getProperty(ConfigurationPropertySourcesPropertyResolver.java:74) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver.getProperty(ConfigurationPropertySourcesPropertyResolver.java:60) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.core.env.AbstractEnvironment.getProperty(AbstractEnvironment.java:552) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer$1.getProperty(PropertySourcesPlaceholderConfigurer.java:153) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer$1.getProperty(PropertySourcesPlaceholderConfigurer.java:149) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.PropertySourcesPropertyResolver.getProperty(PropertySourcesPropertyResolver.java:85) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.PropertySourcesPropertyResolver.getPropertyAsRawString(PropertySourcesPropertyResolver.java:74) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:153) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:126) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:239) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:210) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:191) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:920) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1346) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1325) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:709) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:692) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:133) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:481) ~[spring-beans-6.0.4.jar:6.0.4]
+	... 16 more
+2023-02-19 11:24:47.480 [INFO  ] thilan.log4j2.Log4j2Application - Starting Log4j2Application using Java 17.0.4.1 with PID 14156 (C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2\target\classes started by User in C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2)
+2023-02-19 11:24:47.482 [DEBUG ] thilan.log4j2.Log4j2Application - Running with Spring Boot v3.0.2, Spring v6.0.4
+2023-02-19 11:24:47.484 [INFO  ] thilan.log4j2.Log4j2Application - No active profile set, falling back to 1 default profile: "default"
+2023-02-19 11:24:48.059 [INFO  ] jasyptspringboot.configuration.EnableEncryptablePropertiesBeanFactoryPostProcessor - Post-processing PropertySource instances
+2023-02-19 11:24:48.061 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Skipping PropertySource configurationProperties [class org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource
+2023-02-19 11:24:48.062 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource systemProperties [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2023-02-19 11:24:48.062 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableSystemEnvironmentPropertySourceWrapper
+2023-02-19 11:24:48.063 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2023-02-19 11:24:48.063 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource Config resource 'class path resource [application.properties]' via location 'optional:classpath:/' [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+2023-02-19 11:24:48.324 [INFO  ] thilan.log4j2.Log4j2Application - Started Log4j2Application in 1.193 seconds (process running for 2.016)
+2023-02-19 11:30:28.683 [INFO  ] thilan.log4j2.Log4j2Application - Starting Log4j2Application using Java 17.0.4.1 with PID 8612 (C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2\target\classes started by User in C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2)
+2023-02-19 11:30:28.686 [DEBUG ] thilan.log4j2.Log4j2Application - Running with Spring Boot v3.0.2, Spring v6.0.4
+2023-02-19 11:30:28.687 [INFO  ] thilan.log4j2.Log4j2Application - No active profile set, falling back to 1 default profile: "default"
+2023-02-19 11:30:29.245 [INFO  ] jasyptspringboot.configuration.EnableEncryptablePropertiesBeanFactoryPostProcessor - Post-processing PropertySource instances
+2023-02-19 11:30:29.248 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Skipping PropertySource configurationProperties [class org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource
+2023-02-19 11:30:29.249 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource systemProperties [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2023-02-19 11:30:29.250 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableSystemEnvironmentPropertySourceWrapper
+2023-02-19 11:30:29.250 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2023-02-19 11:30:29.250 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource Config resource 'class path resource [application.properties]' via location 'optional:classpath:/' [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+2023-02-19 11:30:29.485 [INFO  ] thilan.log4j2.Log4j2Application - Started Log4j2Application in 1.184 seconds (process running for 1.991)
+2023-02-19 11:30:51.356 [INFO  ] thilan.log4j2.Log4j2Application - Starting Log4j2Application using Java 17.0.4.1 with PID 11116 (C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2\target\classes started by User in C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2)
+2023-02-19 11:30:51.358 [DEBUG ] thilan.log4j2.Log4j2Application - Running with Spring Boot v3.0.2, Spring v6.0.4
+2023-02-19 11:30:51.361 [INFO  ] thilan.log4j2.Log4j2Application - No active profile set, falling back to 1 default profile: "default"
+2023-02-19 11:30:51.917 [INFO  ] jasyptspringboot.configuration.EnableEncryptablePropertiesBeanFactoryPostProcessor - Post-processing PropertySource instances
+2023-02-19 11:30:51.920 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Skipping PropertySource configurationProperties [class org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource
+2023-02-19 11:30:51.922 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource systemProperties [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2023-02-19 11:30:51.922 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableSystemEnvironmentPropertySourceWrapper
+2023-02-19 11:30:51.923 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2023-02-19 11:30:51.923 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource Config resource 'class path resource [application.properties]' via location 'optional:classpath:/' [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+2023-02-19 11:30:52.160 [INFO  ] thilan.log4j2.Log4j2Application - Started Log4j2Application in 1.163 seconds (process running for 1.925)
+2023-02-19 11:31:07.180 [INFO  ] thilan.log4j2.Log4j2Application - Starting Log4j2Application using Java 17.0.4.1 with PID 3760 (C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2\target\classes started by User in C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2)
+2023-02-19 11:31:07.183 [DEBUG ] thilan.log4j2.Log4j2Application - Running with Spring Boot v3.0.2, Spring v6.0.4
+2023-02-19 11:31:07.184 [INFO  ] thilan.log4j2.Log4j2Application - No active profile set, falling back to 1 default profile: "default"
+2023-02-19 11:31:07.751 [INFO  ] jasyptspringboot.configuration.EnableEncryptablePropertiesBeanFactoryPostProcessor - Post-processing PropertySource instances
+2023-02-19 11:31:07.754 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Skipping PropertySource configurationProperties [class org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource
+2023-02-19 11:31:07.756 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource systemProperties [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2023-02-19 11:31:07.756 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableSystemEnvironmentPropertySourceWrapper
+2023-02-19 11:31:07.756 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2023-02-19 11:31:07.756 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource Config resource 'class path resource [application.properties]' via location 'optional:classpath:/' [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+2023-02-19 11:31:07.976 [INFO  ] thilan.log4j2.Log4j2Application - Started Log4j2Application in 1.162 seconds (process running for 1.973)
+2023-02-19 11:31:40.658 [INFO  ] thilan.log4j2.Log4j2Application - Starting Log4j2Application using Java 17.0.4.1 with PID 11488 (C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2\target\classes started by User in C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2)
+2023-02-19 11:31:40.660 [DEBUG ] thilan.log4j2.Log4j2Application - Running with Spring Boot v3.0.2, Spring v6.0.4
+2023-02-19 11:31:40.661 [INFO  ] thilan.log4j2.Log4j2Application - No active profile set, falling back to 1 default profile: "default"
+2023-02-19 11:31:41.237 [INFO  ] jasyptspringboot.configuration.EnableEncryptablePropertiesBeanFactoryPostProcessor - Post-processing PropertySource instances
+2023-02-19 11:31:41.242 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Skipping PropertySource configurationProperties [class org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource
+2023-02-19 11:31:41.244 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource systemProperties [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2023-02-19 11:31:41.244 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableSystemEnvironmentPropertySourceWrapper
+2023-02-19 11:31:41.244 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2023-02-19 11:31:41.245 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource Config resource 'class path resource [application.properties]' via location 'optional:classpath:/' [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+2023-02-19 11:31:41.515 [INFO  ] thilan.log4j2.Log4j2Application - Started Log4j2Application in 1.218 seconds (process running for 2.017)
+2023-02-19 11:32:19.009 [INFO  ] thilan.log4j2.Log4j2Application - Starting Log4j2Application using Java 17.0.4.1 with PID 7888 (C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2\target\classes started by User in C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2)
+2023-02-19 11:32:19.015 [DEBUG ] thilan.log4j2.Log4j2Application - Running with Spring Boot v3.0.2, Spring v6.0.4
+2023-02-19 11:32:19.017 [INFO  ] thilan.log4j2.Log4j2Application - No active profile set, falling back to 1 default profile: "default"
+2023-02-19 11:32:19.699 [INFO  ] thilan.log4j2.Log4j2Application - Started Log4j2Application in 1.054 seconds (process running for 1.844)
+2023-02-19 11:33:15.276 [INFO  ] thilan.log4j2.Log4j2Application - Starting Log4j2Application using Java 17.0.4.1 with PID 2040 (C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2\target\classes started by User in C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2)
+2023-02-19 11:33:15.281 [DEBUG ] thilan.log4j2.Log4j2Application - Running with Spring Boot v3.0.2, Spring v6.0.4
+2023-02-19 11:33:15.282 [INFO  ] thilan.log4j2.Log4j2Application - No active profile set, falling back to 1 default profile: "default"
+2023-02-19 11:33:15.987 [INFO  ] thilan.log4j2.Log4j2Application - Started Log4j2Application in 1.106 seconds (process running for 1.909)
+2023-02-19 11:35:38.436 [INFO  ] thilan.log4j2.Log4j2Application - Starting Log4j2Application using Java 17.0.4.1 with PID 14532 (C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2\target\classes started by User in C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2)
+2023-02-19 11:35:38.440 [DEBUG ] thilan.log4j2.Log4j2Application - Running with Spring Boot v3.0.2, Spring v6.0.4
+2023-02-19 11:35:38.443 [INFO  ] thilan.log4j2.Log4j2Application - No active profile set, falling back to 1 default profile: "default"
+2023-02-19 11:35:39.111 [INFO  ] thilan.log4j2.Log4j2Application - Started Log4j2Application in 1.034 seconds (process running for 1.905)
+2023-02-19 11:36:47.190 [INFO  ] thilan.log4j2.Log4j2Application - Starting Log4j2Application using Java 17.0.4.1 with PID 12600 (C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2\target\classes started by User in C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2)
+2023-02-19 11:36:47.193 [DEBUG ] thilan.log4j2.Log4j2Application - Running with Spring Boot v3.0.2, Spring v6.0.4
+2023-02-19 11:36:47.195 [INFO  ] thilan.log4j2.Log4j2Application - No active profile set, falling back to 1 default profile: "default"
+2023-02-19 11:36:48.185 [INFO  ] thilan.log4j2.Log4j2Application - Started Log4j2Application in 1.369 seconds (process running for 2.254)
+2023-02-19 11:37:17.253 [INFO  ] thilan.log4j2.Log4j2Application - Starting Log4j2Application using Java 17.0.4.1 with PID 2424 (C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2\target\classes started by User in C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2)
+2023-02-19 11:37:17.260 [DEBUG ] thilan.log4j2.Log4j2Application - Running with Spring Boot v3.0.2, Spring v6.0.4
+2023-02-19 11:37:17.261 [INFO  ] thilan.log4j2.Log4j2Application - No active profile set, falling back to 1 default profile: "default"
+2023-02-19 11:37:18.295 [INFO  ] embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 7001 (http)
+2023-02-19 11:37:18.308 [INFO  ] coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-7001"]
+2023-02-19 11:37:18.309 [INFO  ] catalina.core.StandardService - Starting service [Tomcat]
+2023-02-19 11:37:18.309 [INFO  ] catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-02-19 11:37:18.432 [INFO  ] [Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-02-19 11:37:18.434 [INFO  ] servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1128 ms
+2023-02-19 11:37:18.884 [INFO  ] coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-7001"]
+2023-02-19 11:37:18.906 [INFO  ] embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 7001 (http) with context path ''
+2023-02-19 11:37:18.917 [INFO  ] thilan.log4j2.Log4j2Application - Started Log4j2Application in 2.05 seconds (process running for 3.179)
+2023-02-19 11:37:28.933 [INFO  ] [Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-19 11:37:28.934 [INFO  ] web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-02-19 11:37:28.936 [INFO  ] web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2023-02-19 11:37:29.004 [DEBUG ] log4j2.controller.getEndpoints - Inside Controller:
+2023-02-19 11:38:22.463 [INFO  ] thilan.log4j2.Log4j2Application - Starting Log4j2Application using Java 17.0.4.1 with PID 13224 (C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2\target\classes started by User in C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2)
+2023-02-19 11:38:22.471 [DEBUG ] thilan.log4j2.Log4j2Application - Running with Spring Boot v3.0.2, Spring v6.0.4
+2023-02-19 11:38:22.472 [INFO  ] thilan.log4j2.Log4j2Application - No active profile set, falling back to 1 default profile: "default"
+2023-02-19 11:38:23.413 [INFO  ] embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 7001 (http)
+2023-02-19 11:38:23.424 [INFO  ] coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-7001"]
+2023-02-19 11:38:23.425 [INFO  ] catalina.core.StandardService - Starting service [Tomcat]
+2023-02-19 11:38:23.426 [INFO  ] catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-02-19 11:38:23.533 [INFO  ] [Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-02-19 11:38:23.537 [INFO  ] servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1018 ms
+2023-02-19 11:38:23.949 [INFO  ] coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-7001"]
+2023-02-19 11:38:23.970 [INFO  ] embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 7001 (http) with context path ''
+2023-02-19 11:38:23.980 [INFO  ] thilan.log4j2.Log4j2Application - Started Log4j2Application in 1.924 seconds (process running for 2.747)
+2023-02-19 11:38:28.348 [INFO  ] [Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-19 11:38:28.351 [INFO  ] web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-02-19 11:38:28.353 [INFO  ] web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2023-02-19 11:38:28.414 [DEBUG ] log4j2.controller.getEndpoints - Inside Controller:
+2023-02-19 11:38:32.075 [DEBUG ] log4j2.controller.getEndpoints - Inside Controller:
+2023-02-19 11:39:33.991 [INFO  ] thilan.log4j2.Log4j2Application - Starting Log4j2Application using Java 17.0.4.1 with PID 3728 (C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2\target\classes started by User in C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2)
+2023-02-19 11:39:34.000 [DEBUG ] thilan.log4j2.Log4j2Application - Running with Spring Boot v3.0.2, Spring v6.0.4
+2023-02-19 11:39:34.001 [INFO  ] thilan.log4j2.Log4j2Application - No active profile set, falling back to 1 default profile: "default"
+2023-02-19 11:39:34.682 [INFO  ] jasyptspringboot.configuration.EnableEncryptablePropertiesBeanFactoryPostProcessor - Post-processing PropertySource instances
+2023-02-19 11:39:34.684 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Skipping PropertySource configurationProperties [class org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource
+2023-02-19 11:39:34.686 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Skipping PropertySource servletConfigInitParams [class org.springframework.core.env.PropertySource$StubPropertySource
+2023-02-19 11:39:34.686 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Skipping PropertySource servletContextInitParams [class org.springframework.core.env.PropertySource$StubPropertySource
+2023-02-19 11:39:34.688 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource systemProperties [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2023-02-19 11:39:34.688 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableSystemEnvironmentPropertySourceWrapper
+2023-02-19 11:39:34.688 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2023-02-19 11:39:34.689 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource Config resource 'class path resource [application.properties]' via location 'optional:classpath:/' [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+2023-02-19 11:39:34.803 [INFO  ] jasyptspringboot.filter.DefaultLazyPropertyFilter - Property Filter custom Bean not found with name 'encryptablePropertyFilter'. Initializing Default Property Filter
+2023-02-19 11:39:34.814 [INFO  ] jasyptspringboot.resolver.DefaultLazyPropertyResolver - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2023-02-19 11:39:34.816 [INFO  ] jasyptspringboot.detector.DefaultLazyPropertyDetector - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2023-02-19 11:39:35.090 [INFO  ] embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 7001 (http)
+2023-02-19 11:39:35.102 [INFO  ] coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-7001"]
+2023-02-19 11:39:35.103 [INFO  ] catalina.core.StandardService - Starting service [Tomcat]
+2023-02-19 11:39:35.103 [INFO  ] catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-02-19 11:39:35.202 [INFO  ] [Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-02-19 11:39:35.204 [INFO  ] servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1157 ms
+2023-02-19 11:39:35.615 [INFO  ] coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-7001"]
+2023-02-19 11:39:35.639 [INFO  ] embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 7001 (http) with context path ''
+2023-02-19 11:39:35.641 [INFO  ] jasyptspringboot.caching.RefreshScopeRefreshedEventListener - Refreshing cached encryptable property sources on ServletWebServerInitializedEvent
+2023-02-19 11:39:35.641 [INFO  ] jasyptspringboot.caching.CachingDelegateEncryptablePropertySource - Property Source systemProperties refreshed
+2023-02-19 11:39:35.642 [INFO  ] jasyptspringboot.caching.CachingDelegateEncryptablePropertySource - Property Source systemEnvironment refreshed
+2023-02-19 11:39:35.642 [INFO  ] jasyptspringboot.caching.CachingDelegateEncryptablePropertySource - Property Source random refreshed
+2023-02-19 11:39:35.642 [INFO  ] jasyptspringboot.caching.CachingDelegateEncryptablePropertySource - Property Source Config resource 'class path resource [application.properties]' via location 'optional:classpath:/' refreshed
+2023-02-19 11:39:35.642 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Skipping PropertySource configurationProperties [class org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource
+2023-02-19 11:39:35.642 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Skipping PropertySource servletConfigInitParams [class org.springframework.core.env.PropertySource$StubPropertySource
+2023-02-19 11:39:35.642 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource servletContextInitParams [org.springframework.web.context.support.ServletContextPropertySource] to EncryptableEnumerablePropertySourceWrapper
+2023-02-19 11:39:35.652 [INFO  ] thilan.log4j2.Log4j2Application - Started Log4j2Application in 2.056 seconds (process running for 2.886)
+2023-02-19 11:39:59.164 [INFO  ] [Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-19 11:39:59.165 [INFO  ] web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-02-19 11:39:59.168 [INFO  ] web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2023-02-19 11:39:59.236 [DEBUG ] log4j2.controller.getEndpoints - Inside Controller:
+2023-02-19 11:40:00.363 [DEBUG ] log4j2.controller.getEndpoints - Inside Controller:
+2023-02-19 11:40:17.477 [INFO  ] thilan.log4j2.Log4j2Application - Starting Log4j2Application using Java 17.0.4.1 with PID 1788 (C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2\target\classes started by User in C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2)
+2023-02-19 11:40:17.488 [DEBUG ] thilan.log4j2.Log4j2Application - Running with Spring Boot v3.0.2, Spring v6.0.4
+2023-02-19 11:40:17.489 [INFO  ] thilan.log4j2.Log4j2Application - No active profile set, falling back to 1 default profile: "default"
+2023-02-19 11:40:18.173 [INFO  ] jasyptspringboot.configuration.EnableEncryptablePropertiesBeanFactoryPostProcessor - Post-processing PropertySource instances
+2023-02-19 11:40:18.175 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Skipping PropertySource configurationProperties [class org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource
+2023-02-19 11:40:18.175 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Skipping PropertySource servletConfigInitParams [class org.springframework.core.env.PropertySource$StubPropertySource
+2023-02-19 11:40:18.176 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Skipping PropertySource servletContextInitParams [class org.springframework.core.env.PropertySource$StubPropertySource
+2023-02-19 11:40:18.178 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource systemProperties [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2023-02-19 11:40:18.178 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableSystemEnvironmentPropertySourceWrapper
+2023-02-19 11:40:18.178 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2023-02-19 11:40:18.179 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource Config resource 'class path resource [application.properties]' via location 'optional:classpath:/' [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+2023-02-19 11:40:18.295 [INFO  ] jasyptspringboot.filter.DefaultLazyPropertyFilter - Property Filter custom Bean not found with name 'encryptablePropertyFilter'. Initializing Default Property Filter
+2023-02-19 11:40:18.312 [INFO  ] jasyptspringboot.resolver.DefaultLazyPropertyResolver - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2023-02-19 11:40:18.315 [INFO  ] jasyptspringboot.detector.DefaultLazyPropertyDetector - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2023-02-19 11:40:18.610 [INFO  ] embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 7001 (http)
+2023-02-19 11:40:18.620 [INFO  ] coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-7001"]
+2023-02-19 11:40:18.622 [INFO  ] catalina.core.StandardService - Starting service [Tomcat]
+2023-02-19 11:40:18.622 [INFO  ] catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-02-19 11:40:18.727 [INFO  ] [Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-02-19 11:40:18.730 [INFO  ] servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1194 ms
+2023-02-19 11:40:19.113 [INFO  ] coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-7001"]
+2023-02-19 11:40:19.134 [INFO  ] embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 7001 (http) with context path ''
+2023-02-19 11:40:19.137 [INFO  ] jasyptspringboot.caching.RefreshScopeRefreshedEventListener - Refreshing cached encryptable property sources on ServletWebServerInitializedEvent
+2023-02-19 11:40:19.137 [INFO  ] jasyptspringboot.caching.CachingDelegateEncryptablePropertySource - Property Source systemProperties refreshed
+2023-02-19 11:40:19.138 [INFO  ] jasyptspringboot.caching.CachingDelegateEncryptablePropertySource - Property Source systemEnvironment refreshed
+2023-02-19 11:40:19.138 [INFO  ] jasyptspringboot.caching.CachingDelegateEncryptablePropertySource - Property Source random refreshed
+2023-02-19 11:40:19.138 [INFO  ] jasyptspringboot.caching.CachingDelegateEncryptablePropertySource - Property Source Config resource 'class path resource [application.properties]' via location 'optional:classpath:/' refreshed
+2023-02-19 11:40:19.138 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Skipping PropertySource configurationProperties [class org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource
+2023-02-19 11:40:19.138 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Skipping PropertySource servletConfigInitParams [class org.springframework.core.env.PropertySource$StubPropertySource
+2023-02-19 11:40:19.138 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource servletContextInitParams [org.springframework.web.context.support.ServletContextPropertySource] to EncryptableEnumerablePropertySourceWrapper
+2023-02-19 11:40:19.147 [INFO  ] thilan.log4j2.Log4j2Application - Started Log4j2Application in 2.041 seconds (process running for 2.84)
+2023-02-19 11:40:34.491 [INFO  ] thilan.log4j2.Log4j2Application - Starting Log4j2Application using Java 17.0.4.1 with PID 13668 (C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2\target\classes started by User in C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2)
+2023-02-19 11:40:34.498 [DEBUG ] thilan.log4j2.Log4j2Application - Running with Spring Boot v3.0.2, Spring v6.0.4
+2023-02-19 11:40:34.499 [INFO  ] thilan.log4j2.Log4j2Application - No active profile set, falling back to 1 default profile: "default"
+2023-02-19 11:40:35.208 [INFO  ] jasyptspringboot.configuration.EnableEncryptablePropertiesBeanFactoryPostProcessor - Post-processing PropertySource instances
+2023-02-19 11:40:35.210 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Skipping PropertySource configurationProperties [class org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource
+2023-02-19 11:40:35.211 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Skipping PropertySource servletConfigInitParams [class org.springframework.core.env.PropertySource$StubPropertySource
+2023-02-19 11:40:35.212 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Skipping PropertySource servletContextInitParams [class org.springframework.core.env.PropertySource$StubPropertySource
+2023-02-19 11:40:35.214 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource systemProperties [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2023-02-19 11:40:35.214 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableSystemEnvironmentPropertySourceWrapper
+2023-02-19 11:40:35.215 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2023-02-19 11:40:35.215 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource Config resource 'class path resource [application.properties]' via location 'optional:classpath:/' [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+2023-02-19 11:40:35.337 [INFO  ] jasyptspringboot.filter.DefaultLazyPropertyFilter - Property Filter custom Bean not found with name 'encryptablePropertyFilter'. Initializing Default Property Filter
+2023-02-19 11:40:35.355 [INFO  ] jasyptspringboot.resolver.DefaultLazyPropertyResolver - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2023-02-19 11:40:35.357 [INFO  ] jasyptspringboot.detector.DefaultLazyPropertyDetector - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2023-02-19 11:40:35.742 [INFO  ] embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 7001 (http)
+2023-02-19 11:40:35.753 [INFO  ] coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-7001"]
+2023-02-19 11:40:35.755 [INFO  ] catalina.core.StandardService - Starting service [Tomcat]
+2023-02-19 11:40:35.756 [INFO  ] catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-02-19 11:40:35.870 [INFO  ] [Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-02-19 11:40:35.873 [INFO  ] servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1325 ms
+2023-02-19 11:40:36.260 [INFO  ] coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-7001"]
+2023-02-19 11:40:36.283 [INFO  ] embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 7001 (http) with context path ''
+2023-02-19 11:40:36.284 [INFO  ] jasyptspringboot.caching.RefreshScopeRefreshedEventListener - Refreshing cached encryptable property sources on ServletWebServerInitializedEvent
+2023-02-19 11:40:36.285 [INFO  ] jasyptspringboot.caching.CachingDelegateEncryptablePropertySource - Property Source systemProperties refreshed
+2023-02-19 11:40:36.286 [INFO  ] jasyptspringboot.caching.CachingDelegateEncryptablePropertySource - Property Source systemEnvironment refreshed
+2023-02-19 11:40:36.286 [INFO  ] jasyptspringboot.caching.CachingDelegateEncryptablePropertySource - Property Source random refreshed
+2023-02-19 11:40:36.286 [INFO  ] jasyptspringboot.caching.CachingDelegateEncryptablePropertySource - Property Source Config resource 'class path resource [application.properties]' via location 'optional:classpath:/' refreshed
+2023-02-19 11:40:36.286 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Skipping PropertySource configurationProperties [class org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource
+2023-02-19 11:40:36.286 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Skipping PropertySource servletConfigInitParams [class org.springframework.core.env.PropertySource$StubPropertySource
+2023-02-19 11:40:36.287 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource servletContextInitParams [org.springframework.web.context.support.ServletContextPropertySource] to EncryptableEnumerablePropertySourceWrapper
+2023-02-19 11:40:36.295 [INFO  ] thilan.log4j2.Log4j2Application - Started Log4j2Application in 2.186 seconds (process running for 3.106)
+2023-02-19 11:40:41.675 [INFO  ] [Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-19 11:40:41.675 [INFO  ] web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-02-19 11:40:41.678 [INFO  ] web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2023-02-19 11:40:41.741 [DEBUG ] log4j2.controller.getEndpoints - Inside Controller:
+2023-02-19 11:40:43.181 [DEBUG ] log4j2.controller.getEndpoints - Inside Controller:
+2023-02-19 11:41:09.782 [INFO  ] thilan.log4j2.Log4j2Application - Starting Log4j2Application using Java 17.0.4.1 with PID 2780 (C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2\target\classes started by User in C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2)
+2023-02-19 11:41:09.789 [DEBUG ] thilan.log4j2.Log4j2Application - Running with Spring Boot v3.0.2, Spring v6.0.4
+2023-02-19 11:41:09.790 [INFO  ] thilan.log4j2.Log4j2Application - No active profile set, falling back to 1 default profile: "default"
+2023-02-19 11:41:10.499 [INFO  ] jasyptspringboot.configuration.EnableEncryptablePropertiesBeanFactoryPostProcessor - Post-processing PropertySource instances
+2023-02-19 11:41:10.502 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Skipping PropertySource configurationProperties [class org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource
+2023-02-19 11:41:10.503 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Skipping PropertySource servletConfigInitParams [class org.springframework.core.env.PropertySource$StubPropertySource
+2023-02-19 11:41:10.503 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Skipping PropertySource servletContextInitParams [class org.springframework.core.env.PropertySource$StubPropertySource
+2023-02-19 11:41:10.504 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource systemProperties [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2023-02-19 11:41:10.505 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableSystemEnvironmentPropertySourceWrapper
+2023-02-19 11:41:10.505 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2023-02-19 11:41:10.505 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource Config resource 'class path resource [application.properties]' via location 'optional:classpath:/' [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+2023-02-19 11:41:10.634 [INFO  ] jasyptspringboot.filter.DefaultLazyPropertyFilter - Property Filter custom Bean not found with name 'encryptablePropertyFilter'. Initializing Default Property Filter
+2023-02-19 11:41:10.651 [INFO  ] jasyptspringboot.resolver.DefaultLazyPropertyResolver - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2023-02-19 11:41:10.654 [INFO  ] jasyptspringboot.detector.DefaultLazyPropertyDetector - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2023-02-19 11:41:10.950 [INFO  ] embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 7001 (http)
+2023-02-19 11:41:10.960 [INFO  ] coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-7001"]
+2023-02-19 11:41:10.961 [INFO  ] catalina.core.StandardService - Starting service [Tomcat]
+2023-02-19 11:41:10.962 [INFO  ] catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-02-19 11:41:11.057 [INFO  ] [Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-02-19 11:41:11.059 [INFO  ] servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1224 ms
+2023-02-19 11:41:11.119 [INFO  ] jasyptspringboot.encryptor.DefaultLazyEncryptor - String Encryptor custom Bean not found with name 'jasyptStringEncryptor'. Initializing Default String Encryptor
+2023-02-19 11:41:11.131 [INFO  ] jasyptspringboot.configuration.StringEncryptorBuilder - Encryptor config not found for property jasypt.encryptor.algorithm, using default value: PBEWITHHMACSHA512ANDAES_256
+2023-02-19 11:41:11.132 [INFO  ] jasyptspringboot.configuration.StringEncryptorBuilder - Encryptor config not found for property jasypt.encryptor.key-obtention-iterations, using default value: 1000
+2023-02-19 11:41:11.133 [INFO  ] jasyptspringboot.configuration.StringEncryptorBuilder - Encryptor config not found for property jasypt.encryptor.pool-size, using default value: 1
+2023-02-19 11:41:11.134 [INFO  ] jasyptspringboot.configuration.StringEncryptorBuilder - Encryptor config not found for property jasypt.encryptor.provider-name, using default value: null
+2023-02-19 11:41:11.134 [INFO  ] jasyptspringboot.configuration.StringEncryptorBuilder - Encryptor config not found for property jasypt.encryptor.provider-class-name, using default value: null
+2023-02-19 11:41:11.134 [INFO  ] jasyptspringboot.configuration.StringEncryptorBuilder - Encryptor config not found for property jasypt.encryptor.salt-generator-classname, using default value: org.jasypt.salt.RandomSaltGenerator
+2023-02-19 11:41:11.135 [INFO  ] jasyptspringboot.configuration.StringEncryptorBuilder - Encryptor config not found for property jasypt.encryptor.iv-generator-classname, using default value: org.jasypt.iv.RandomIvGenerator
+2023-02-19 11:41:11.137 [INFO  ] jasyptspringboot.configuration.StringEncryptorBuilder - Encryptor config not found for property jasypt.encryptor.string-output-type, using default value: base64
+2023-02-19 11:41:11.164 [WARN  ] servlet.context.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'getEndpoints': Injection of autowired dependencies failed
+2023-02-19 11:41:11.172 [INFO  ] catalina.core.StandardService - Stopping service [Tomcat]
+2023-02-19 11:41:11.201 [INFO  ] autoconfigure.logging.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-02-19 11:41:11.240 [ERROR ] springframework.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'getEndpoints': Injection of autowired dependencies failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:487) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1397) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:598) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:521) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:961) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:915) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:584) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:432) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1302) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1291) ~[spring-boot-3.0.2.jar:3.0.2]
+	at com.thilan.log4j2.Log4j2Application.main(Log4j2Application.java:11) ~[classes/:?]
+Caused by: com.ulisesbocchio.jasyptspringboot.exception.DecryptionException: Unable to decrypt property: ENC(dQWokHUXXFe+OqXRZYWu22BpXoRZ0Drt) resolved to: ENC(dQWokHUXXFe+OqXRZYWu22BpXoRZ0Drt). Decryption of Properties failed,  make sure encryption/decryption passwords match
+	at com.ulisesbocchio.jasyptspringboot.resolver.DefaultPropertyResolver.lambda$resolvePropertyValue$0(DefaultPropertyResolver.java:63) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at com.ulisesbocchio.jasyptspringboot.resolver.DefaultPropertyResolver.resolvePropertyValue(DefaultPropertyResolver.java:57) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.resolver.DefaultLazyPropertyResolver.resolvePropertyValue(DefaultLazyPropertyResolver.java:69) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.caching.CachingDelegateEncryptablePropertySource.getProperty(CachingDelegateEncryptablePropertySource.java:74) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.wrapper.EncryptableMapPropertySourceWrapper.getProperty(EncryptableMapPropertySourceWrapper.java:40) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at org.springframework.core.env.PropertySourcesPropertyResolver.getProperty(PropertySourcesPropertyResolver.java:85) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver$DefaultResolver.getProperty(ConfigurationPropertySourcesPropertyResolver.java:123) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver.findPropertyValue(ConfigurationPropertySourcesPropertyResolver.java:97) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver.getProperty(ConfigurationPropertySourcesPropertyResolver.java:74) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver.getProperty(ConfigurationPropertySourcesPropertyResolver.java:60) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.core.env.AbstractEnvironment.getProperty(AbstractEnvironment.java:552) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer$1.getProperty(PropertySourcesPlaceholderConfigurer.java:153) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer$1.getProperty(PropertySourcesPlaceholderConfigurer.java:149) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.PropertySourcesPropertyResolver.getProperty(PropertySourcesPropertyResolver.java:85) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.PropertySourcesPropertyResolver.getPropertyAsRawString(PropertySourcesPropertyResolver.java:74) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:153) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:126) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:239) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:210) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:191) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:920) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1346) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1325) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:709) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:692) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:133) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:481) ~[spring-beans-6.0.4.jar:6.0.4]
+	... 17 more
+Caused by: org.jasypt.exceptions.EncryptionOperationNotPossibleException
+	at org.jasypt.encryption.pbe.StandardPBEByteEncryptor.decrypt(StandardPBEByteEncryptor.java:1054) ~[jasypt-1.9.3.jar:?]
+	at org.jasypt.encryption.pbe.StandardPBEStringEncryptor.decrypt(StandardPBEStringEncryptor.java:738) ~[jasypt-1.9.3.jar:?]
+	at org.jasypt.encryption.pbe.PooledPBEStringEncryptor.decrypt(PooledPBEStringEncryptor.java:511) ~[jasypt-1.9.3.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.encryptor.DefaultLazyEncryptor.decrypt(DefaultLazyEncryptor.java:73) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.resolver.DefaultPropertyResolver.lambda$resolvePropertyValue$0(DefaultPropertyResolver.java:61) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at com.ulisesbocchio.jasyptspringboot.resolver.DefaultPropertyResolver.resolvePropertyValue(DefaultPropertyResolver.java:57) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.resolver.DefaultLazyPropertyResolver.resolvePropertyValue(DefaultLazyPropertyResolver.java:69) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.caching.CachingDelegateEncryptablePropertySource.getProperty(CachingDelegateEncryptablePropertySource.java:74) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.wrapper.EncryptableMapPropertySourceWrapper.getProperty(EncryptableMapPropertySourceWrapper.java:40) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at org.springframework.core.env.PropertySourcesPropertyResolver.getProperty(PropertySourcesPropertyResolver.java:85) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver$DefaultResolver.getProperty(ConfigurationPropertySourcesPropertyResolver.java:123) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver.findPropertyValue(ConfigurationPropertySourcesPropertyResolver.java:97) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver.getProperty(ConfigurationPropertySourcesPropertyResolver.java:74) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver.getProperty(ConfigurationPropertySourcesPropertyResolver.java:60) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.core.env.AbstractEnvironment.getProperty(AbstractEnvironment.java:552) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer$1.getProperty(PropertySourcesPlaceholderConfigurer.java:153) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer$1.getProperty(PropertySourcesPlaceholderConfigurer.java:149) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.PropertySourcesPropertyResolver.getProperty(PropertySourcesPropertyResolver.java:85) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.PropertySourcesPropertyResolver.getPropertyAsRawString(PropertySourcesPropertyResolver.java:74) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:153) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:126) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:239) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:210) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:191) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:920) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1346) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1325) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:709) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:692) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:133) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:481) ~[spring-beans-6.0.4.jar:6.0.4]
+	... 17 more
+2023-02-19 11:42:40.895 [INFO  ] thilan.log4j2.Log4j2Application - Starting Log4j2Application using Java 17.0.4.1 with PID 14944 (C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2\target\classes started by User in C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2)
+2023-02-19 11:42:40.903 [DEBUG ] thilan.log4j2.Log4j2Application - Running with Spring Boot v3.0.2, Spring v6.0.4
+2023-02-19 11:42:40.904 [INFO  ] thilan.log4j2.Log4j2Application - No active profile set, falling back to 1 default profile: "default"
+2023-02-19 11:42:41.586 [INFO  ] jasyptspringboot.configuration.EnableEncryptablePropertiesBeanFactoryPostProcessor - Post-processing PropertySource instances
+2023-02-19 11:42:41.588 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Skipping PropertySource configurationProperties [class org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource
+2023-02-19 11:42:41.589 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Skipping PropertySource servletConfigInitParams [class org.springframework.core.env.PropertySource$StubPropertySource
+2023-02-19 11:42:41.589 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Skipping PropertySource servletContextInitParams [class org.springframework.core.env.PropertySource$StubPropertySource
+2023-02-19 11:42:41.591 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource systemProperties [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2023-02-19 11:42:41.591 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableSystemEnvironmentPropertySourceWrapper
+2023-02-19 11:42:41.591 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2023-02-19 11:42:41.591 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource Config resource 'class path resource [application.properties]' via location 'optional:classpath:/' [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+2023-02-19 11:42:41.706 [INFO  ] jasyptspringboot.filter.DefaultLazyPropertyFilter - Property Filter custom Bean not found with name 'encryptablePropertyFilter'. Initializing Default Property Filter
+2023-02-19 11:42:41.723 [INFO  ] jasyptspringboot.resolver.DefaultLazyPropertyResolver - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2023-02-19 11:42:41.727 [INFO  ] jasyptspringboot.detector.DefaultLazyPropertyDetector - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2023-02-19 11:42:41.996 [INFO  ] embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 7001 (http)
+2023-02-19 11:42:42.008 [INFO  ] coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-7001"]
+2023-02-19 11:42:42.009 [INFO  ] catalina.core.StandardService - Starting service [Tomcat]
+2023-02-19 11:42:42.009 [INFO  ] catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-02-19 11:42:42.119 [INFO  ] [Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-02-19 11:42:42.122 [INFO  ] servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1169 ms
+2023-02-19 11:42:42.182 [INFO  ] jasyptspringboot.encryptor.DefaultLazyEncryptor - String Encryptor custom Bean not found with name 'jasyptStringEncryptor'. Initializing Default String Encryptor
+2023-02-19 11:42:42.194 [INFO  ] jasyptspringboot.configuration.StringEncryptorBuilder - Encryptor config not found for property jasypt.encryptor.algorithm, using default value: PBEWITHHMACSHA512ANDAES_256
+2023-02-19 11:42:42.195 [INFO  ] jasyptspringboot.configuration.StringEncryptorBuilder - Encryptor config not found for property jasypt.encryptor.key-obtention-iterations, using default value: 1000
+2023-02-19 11:42:42.195 [INFO  ] jasyptspringboot.configuration.StringEncryptorBuilder - Encryptor config not found for property jasypt.encryptor.pool-size, using default value: 1
+2023-02-19 11:42:42.195 [INFO  ] jasyptspringboot.configuration.StringEncryptorBuilder - Encryptor config not found for property jasypt.encryptor.provider-name, using default value: null
+2023-02-19 11:42:42.196 [INFO  ] jasyptspringboot.configuration.StringEncryptorBuilder - Encryptor config not found for property jasypt.encryptor.provider-class-name, using default value: null
+2023-02-19 11:42:42.196 [INFO  ] jasyptspringboot.configuration.StringEncryptorBuilder - Encryptor config not found for property jasypt.encryptor.salt-generator-classname, using default value: org.jasypt.salt.RandomSaltGenerator
+2023-02-19 11:42:42.197 [INFO  ] jasyptspringboot.configuration.StringEncryptorBuilder - Encryptor config not found for property jasypt.encryptor.iv-generator-classname, using default value: org.jasypt.iv.RandomIvGenerator
+2023-02-19 11:42:42.199 [INFO  ] jasyptspringboot.configuration.StringEncryptorBuilder - Encryptor config not found for property jasypt.encryptor.string-output-type, using default value: base64
+2023-02-19 11:42:42.236 [WARN  ] servlet.context.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'getEndpoints': Injection of autowired dependencies failed
+2023-02-19 11:42:42.243 [INFO  ] catalina.core.StandardService - Stopping service [Tomcat]
+2023-02-19 11:42:42.277 [INFO  ] autoconfigure.logging.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-02-19 11:42:42.318 [ERROR ] springframework.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'getEndpoints': Injection of autowired dependencies failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:487) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1397) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:598) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:521) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:961) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:915) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:584) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:432) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1302) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1291) ~[spring-boot-3.0.2.jar:3.0.2]
+	at com.thilan.log4j2.Log4j2Application.main(Log4j2Application.java:11) ~[classes/:?]
+Caused by: com.ulisesbocchio.jasyptspringboot.exception.DecryptionException: Unable to decrypt property: ENC(6BABLQajxaHlYexqJEXAAx9Ie7yvz+Vb) resolved to: ENC(6BABLQajxaHlYexqJEXAAx9Ie7yvz+Vb). Decryption of Properties failed,  make sure encryption/decryption passwords match
+	at com.ulisesbocchio.jasyptspringboot.resolver.DefaultPropertyResolver.lambda$resolvePropertyValue$0(DefaultPropertyResolver.java:63) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at com.ulisesbocchio.jasyptspringboot.resolver.DefaultPropertyResolver.resolvePropertyValue(DefaultPropertyResolver.java:57) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.resolver.DefaultLazyPropertyResolver.resolvePropertyValue(DefaultLazyPropertyResolver.java:69) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.caching.CachingDelegateEncryptablePropertySource.getProperty(CachingDelegateEncryptablePropertySource.java:74) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.wrapper.EncryptableMapPropertySourceWrapper.getProperty(EncryptableMapPropertySourceWrapper.java:40) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at org.springframework.core.env.PropertySourcesPropertyResolver.getProperty(PropertySourcesPropertyResolver.java:85) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver$DefaultResolver.getProperty(ConfigurationPropertySourcesPropertyResolver.java:123) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver.findPropertyValue(ConfigurationPropertySourcesPropertyResolver.java:97) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver.getProperty(ConfigurationPropertySourcesPropertyResolver.java:74) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver.getProperty(ConfigurationPropertySourcesPropertyResolver.java:60) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.core.env.AbstractEnvironment.getProperty(AbstractEnvironment.java:552) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer$1.getProperty(PropertySourcesPlaceholderConfigurer.java:153) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer$1.getProperty(PropertySourcesPlaceholderConfigurer.java:149) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.PropertySourcesPropertyResolver.getProperty(PropertySourcesPropertyResolver.java:85) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.PropertySourcesPropertyResolver.getPropertyAsRawString(PropertySourcesPropertyResolver.java:74) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:153) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:126) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:239) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:210) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:191) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:920) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1346) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1325) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:709) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:692) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:133) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:481) ~[spring-beans-6.0.4.jar:6.0.4]
+	... 17 more
+Caused by: org.jasypt.exceptions.EncryptionOperationNotPossibleException
+	at org.jasypt.encryption.pbe.StandardPBEByteEncryptor.decrypt(StandardPBEByteEncryptor.java:1054) ~[jasypt-1.9.3.jar:?]
+	at org.jasypt.encryption.pbe.StandardPBEStringEncryptor.decrypt(StandardPBEStringEncryptor.java:738) ~[jasypt-1.9.3.jar:?]
+	at org.jasypt.encryption.pbe.PooledPBEStringEncryptor.decrypt(PooledPBEStringEncryptor.java:511) ~[jasypt-1.9.3.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.encryptor.DefaultLazyEncryptor.decrypt(DefaultLazyEncryptor.java:73) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.resolver.DefaultPropertyResolver.lambda$resolvePropertyValue$0(DefaultPropertyResolver.java:61) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at com.ulisesbocchio.jasyptspringboot.resolver.DefaultPropertyResolver.resolvePropertyValue(DefaultPropertyResolver.java:57) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.resolver.DefaultLazyPropertyResolver.resolvePropertyValue(DefaultLazyPropertyResolver.java:69) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.caching.CachingDelegateEncryptablePropertySource.getProperty(CachingDelegateEncryptablePropertySource.java:74) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.wrapper.EncryptableMapPropertySourceWrapper.getProperty(EncryptableMapPropertySourceWrapper.java:40) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at org.springframework.core.env.PropertySourcesPropertyResolver.getProperty(PropertySourcesPropertyResolver.java:85) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver$DefaultResolver.getProperty(ConfigurationPropertySourcesPropertyResolver.java:123) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver.findPropertyValue(ConfigurationPropertySourcesPropertyResolver.java:97) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver.getProperty(ConfigurationPropertySourcesPropertyResolver.java:74) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver.getProperty(ConfigurationPropertySourcesPropertyResolver.java:60) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.core.env.AbstractEnvironment.getProperty(AbstractEnvironment.java:552) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer$1.getProperty(PropertySourcesPlaceholderConfigurer.java:153) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer$1.getProperty(PropertySourcesPlaceholderConfigurer.java:149) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.PropertySourcesPropertyResolver.getProperty(PropertySourcesPropertyResolver.java:85) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.PropertySourcesPropertyResolver.getPropertyAsRawString(PropertySourcesPropertyResolver.java:74) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:153) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:126) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:239) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:210) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:191) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:920) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1346) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1325) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:709) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:692) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:133) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:481) ~[spring-beans-6.0.4.jar:6.0.4]
+	... 17 more
+2023-02-19 11:48:34.327 [INFO  ] thilan.log4j2.Log4j2Application - Starting Log4j2Application using Java 17.0.4.1 with PID 8124 (C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2\target\classes started by User in C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2)
+2023-02-19 11:48:34.334 [DEBUG ] thilan.log4j2.Log4j2Application - Running with Spring Boot v3.0.2, Spring v6.0.4
+2023-02-19 11:48:34.335 [INFO  ] thilan.log4j2.Log4j2Application - No active profile set, falling back to 1 default profile: "default"
+2023-02-19 11:48:35.049 [INFO  ] jasyptspringboot.configuration.EnableEncryptablePropertiesBeanFactoryPostProcessor - Post-processing PropertySource instances
+2023-02-19 11:48:35.053 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Skipping PropertySource configurationProperties [class org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource
+2023-02-19 11:48:35.053 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Skipping PropertySource servletConfigInitParams [class org.springframework.core.env.PropertySource$StubPropertySource
+2023-02-19 11:48:35.053 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Skipping PropertySource servletContextInitParams [class org.springframework.core.env.PropertySource$StubPropertySource
+2023-02-19 11:48:35.055 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource systemProperties [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2023-02-19 11:48:35.055 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableSystemEnvironmentPropertySourceWrapper
+2023-02-19 11:48:35.055 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2023-02-19 11:48:35.056 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource Config resource 'class path resource [application.properties]' via location 'optional:classpath:/' [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+2023-02-19 11:48:35.172 [INFO  ] jasyptspringboot.filter.DefaultLazyPropertyFilter - Property Filter custom Bean not found with name 'encryptablePropertyFilter'. Initializing Default Property Filter
+2023-02-19 11:48:35.189 [INFO  ] jasyptspringboot.resolver.DefaultLazyPropertyResolver - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2023-02-19 11:48:35.191 [INFO  ] jasyptspringboot.detector.DefaultLazyPropertyDetector - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2023-02-19 11:48:35.451 [INFO  ] embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 7001 (http)
+2023-02-19 11:48:35.462 [INFO  ] coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-7001"]
+2023-02-19 11:48:35.463 [INFO  ] catalina.core.StandardService - Starting service [Tomcat]
+2023-02-19 11:48:35.463 [INFO  ] catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-02-19 11:48:35.584 [INFO  ] [Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-02-19 11:48:35.586 [INFO  ] servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1198 ms
+2023-02-19 11:48:35.647 [INFO  ] jasyptspringboot.encryptor.DefaultLazyEncryptor - String Encryptor custom Bean not found with name 'jasyptStringEncryptor'. Initializing Default String Encryptor
+2023-02-19 11:48:35.670 [INFO  ] jasyptspringboot.configuration.StringEncryptorBuilder - Encryptor config not found for property jasypt.encryptor.algorithm, using default value: PBEWITHHMACSHA512ANDAES_256
+2023-02-19 11:48:35.671 [INFO  ] jasyptspringboot.configuration.StringEncryptorBuilder - Encryptor config not found for property jasypt.encryptor.key-obtention-iterations, using default value: 1000
+2023-02-19 11:48:35.673 [INFO  ] jasyptspringboot.configuration.StringEncryptorBuilder - Encryptor config not found for property jasypt.encryptor.pool-size, using default value: 1
+2023-02-19 11:48:35.673 [INFO  ] jasyptspringboot.configuration.StringEncryptorBuilder - Encryptor config not found for property jasypt.encryptor.provider-class-name, using default value: null
+2023-02-19 11:48:35.674 [INFO  ] jasyptspringboot.configuration.StringEncryptorBuilder - Encryptor config not found for property jasypt.encryptor.salt-generator-classname, using default value: org.jasypt.salt.RandomSaltGenerator
+2023-02-19 11:48:35.676 [INFO  ] jasyptspringboot.configuration.StringEncryptorBuilder - Encryptor config not found for property jasypt.encryptor.iv-generator-classname, using default value: org.jasypt.iv.RandomIvGenerator
+2023-02-19 11:48:35.677 [INFO  ] jasyptspringboot.configuration.StringEncryptorBuilder - Encryptor config not found for property jasypt.encryptor.string-output-type, using default value: base64
+2023-02-19 11:48:35.708 [WARN  ] servlet.context.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'getEndpoints': Injection of autowired dependencies failed
+2023-02-19 11:48:35.714 [INFO  ] catalina.core.StandardService - Stopping service [Tomcat]
+2023-02-19 11:48:35.735 [INFO  ] autoconfigure.logging.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-02-19 11:48:35.754 [ERROR ] springframework.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'getEndpoints': Injection of autowired dependencies failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:487) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1397) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:598) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:521) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:961) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:915) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:584) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:432) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1302) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1291) ~[spring-boot-3.0.2.jar:3.0.2]
+	at com.thilan.log4j2.Log4j2Application.main(Log4j2Application.java:11) ~[classes/:?]
+Caused by: com.ulisesbocchio.jasyptspringboot.exception.DecryptionException: Unable to decrypt property: ENC(6BABLQajxaHlYexqJEXAAx9Ie7yvz+Vb) resolved to: ENC(6BABLQajxaHlYexqJEXAAx9Ie7yvz+Vb). Decryption of Properties failed,  make sure encryption/decryption passwords match
+	at com.ulisesbocchio.jasyptspringboot.resolver.DefaultPropertyResolver.lambda$resolvePropertyValue$0(DefaultPropertyResolver.java:63) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at com.ulisesbocchio.jasyptspringboot.resolver.DefaultPropertyResolver.resolvePropertyValue(DefaultPropertyResolver.java:57) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.resolver.DefaultLazyPropertyResolver.resolvePropertyValue(DefaultLazyPropertyResolver.java:69) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.caching.CachingDelegateEncryptablePropertySource.getProperty(CachingDelegateEncryptablePropertySource.java:74) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.wrapper.EncryptableMapPropertySourceWrapper.getProperty(EncryptableMapPropertySourceWrapper.java:40) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at org.springframework.core.env.PropertySourcesPropertyResolver.getProperty(PropertySourcesPropertyResolver.java:85) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver$DefaultResolver.getProperty(ConfigurationPropertySourcesPropertyResolver.java:123) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver.findPropertyValue(ConfigurationPropertySourcesPropertyResolver.java:97) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver.getProperty(ConfigurationPropertySourcesPropertyResolver.java:74) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver.getProperty(ConfigurationPropertySourcesPropertyResolver.java:60) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.core.env.AbstractEnvironment.getProperty(AbstractEnvironment.java:552) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer$1.getProperty(PropertySourcesPlaceholderConfigurer.java:153) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer$1.getProperty(PropertySourcesPlaceholderConfigurer.java:149) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.PropertySourcesPropertyResolver.getProperty(PropertySourcesPropertyResolver.java:85) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.PropertySourcesPropertyResolver.getPropertyAsRawString(PropertySourcesPropertyResolver.java:74) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:153) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:126) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:239) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:210) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:191) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:920) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1346) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1325) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:709) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:692) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:133) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:481) ~[spring-beans-6.0.4.jar:6.0.4]
+	... 17 more
+Caused by: org.jasypt.exceptions.EncryptionOperationNotPossibleException
+	at org.jasypt.encryption.pbe.StandardPBEByteEncryptor.decrypt(StandardPBEByteEncryptor.java:1054) ~[jasypt-1.9.3.jar:?]
+	at org.jasypt.encryption.pbe.StandardPBEStringEncryptor.decrypt(StandardPBEStringEncryptor.java:738) ~[jasypt-1.9.3.jar:?]
+	at org.jasypt.encryption.pbe.PooledPBEStringEncryptor.decrypt(PooledPBEStringEncryptor.java:511) ~[jasypt-1.9.3.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.encryptor.DefaultLazyEncryptor.decrypt(DefaultLazyEncryptor.java:73) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.resolver.DefaultPropertyResolver.lambda$resolvePropertyValue$0(DefaultPropertyResolver.java:61) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at com.ulisesbocchio.jasyptspringboot.resolver.DefaultPropertyResolver.resolvePropertyValue(DefaultPropertyResolver.java:57) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.resolver.DefaultLazyPropertyResolver.resolvePropertyValue(DefaultLazyPropertyResolver.java:69) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.caching.CachingDelegateEncryptablePropertySource.getProperty(CachingDelegateEncryptablePropertySource.java:74) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at com.ulisesbocchio.jasyptspringboot.wrapper.EncryptableMapPropertySourceWrapper.getProperty(EncryptableMapPropertySourceWrapper.java:40) ~[jasypt-spring-boot-3.0.5.jar:?]
+	at org.springframework.core.env.PropertySourcesPropertyResolver.getProperty(PropertySourcesPropertyResolver.java:85) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver$DefaultResolver.getProperty(ConfigurationPropertySourcesPropertyResolver.java:123) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver.findPropertyValue(ConfigurationPropertySourcesPropertyResolver.java:97) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver.getProperty(ConfigurationPropertySourcesPropertyResolver.java:74) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver.getProperty(ConfigurationPropertySourcesPropertyResolver.java:60) ~[spring-boot-3.0.2.jar:3.0.2]
+	at org.springframework.core.env.AbstractEnvironment.getProperty(AbstractEnvironment.java:552) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer$1.getProperty(PropertySourcesPlaceholderConfigurer.java:153) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer$1.getProperty(PropertySourcesPlaceholderConfigurer.java:149) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.PropertySourcesPropertyResolver.getProperty(PropertySourcesPropertyResolver.java:85) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.PropertySourcesPropertyResolver.getPropertyAsRawString(PropertySourcesPropertyResolver.java:74) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:153) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:126) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:239) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:210) ~[spring-core-6.0.4.jar:6.0.4]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:191) ~[spring-context-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:920) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1346) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1325) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:709) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:692) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:133) ~[spring-beans-6.0.4.jar:6.0.4]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:481) ~[spring-beans-6.0.4.jar:6.0.4]
+	... 17 more
+2023-02-19 11:49:53.433 [INFO  ] thilan.log4j2.Log4j2Application - Starting Log4j2Application using Java 17.0.4.1 with PID 7284 (C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2\target\classes started by User in C:\Study\Spring Boot\SpringBoot-logging-with-Log4j2)
+2023-02-19 11:49:53.440 [DEBUG ] thilan.log4j2.Log4j2Application - Running with Spring Boot v3.0.2, Spring v6.0.4
+2023-02-19 11:49:53.441 [INFO  ] thilan.log4j2.Log4j2Application - No active profile set, falling back to 1 default profile: "default"
+2023-02-19 11:49:54.170 [INFO  ] jasyptspringboot.configuration.EnableEncryptablePropertiesBeanFactoryPostProcessor - Post-processing PropertySource instances
+2023-02-19 11:49:54.173 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Skipping PropertySource configurationProperties [class org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource
+2023-02-19 11:49:54.174 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Skipping PropertySource servletConfigInitParams [class org.springframework.core.env.PropertySource$StubPropertySource
+2023-02-19 11:49:54.174 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Skipping PropertySource servletContextInitParams [class org.springframework.core.env.PropertySource$StubPropertySource
+2023-02-19 11:49:54.176 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource systemProperties [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2023-02-19 11:49:54.176 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableSystemEnvironmentPropertySourceWrapper
+2023-02-19 11:49:54.176 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2023-02-19 11:49:54.176 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource Config resource 'class path resource [application.properties]' via location 'optional:classpath:/' [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+2023-02-19 11:49:54.301 [INFO  ] jasyptspringboot.filter.DefaultLazyPropertyFilter - Property Filter custom Bean not found with name 'encryptablePropertyFilter'. Initializing Default Property Filter
+2023-02-19 11:49:54.318 [INFO  ] jasyptspringboot.resolver.DefaultLazyPropertyResolver - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2023-02-19 11:49:54.321 [INFO  ] jasyptspringboot.detector.DefaultLazyPropertyDetector - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2023-02-19 11:49:54.599 [INFO  ] embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 7001 (http)
+2023-02-19 11:49:54.610 [INFO  ] coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-7001"]
+2023-02-19 11:49:54.612 [INFO  ] catalina.core.StandardService - Starting service [Tomcat]
+2023-02-19 11:49:54.612 [INFO  ] catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-02-19 11:49:54.744 [INFO  ] [Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-02-19 11:49:54.747 [INFO  ] servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1255 ms
+2023-02-19 11:49:55.288 [INFO  ] coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-7001"]
+2023-02-19 11:49:55.328 [INFO  ] embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 7001 (http) with context path ''
+2023-02-19 11:49:55.330 [INFO  ] jasyptspringboot.caching.RefreshScopeRefreshedEventListener - Refreshing cached encryptable property sources on ServletWebServerInitializedEvent
+2023-02-19 11:49:55.331 [INFO  ] jasyptspringboot.caching.CachingDelegateEncryptablePropertySource - Property Source systemProperties refreshed
+2023-02-19 11:49:55.331 [INFO  ] jasyptspringboot.caching.CachingDelegateEncryptablePropertySource - Property Source systemEnvironment refreshed
+2023-02-19 11:49:55.331 [INFO  ] jasyptspringboot.caching.CachingDelegateEncryptablePropertySource - Property Source random refreshed
+2023-02-19 11:49:55.332 [INFO  ] jasyptspringboot.caching.CachingDelegateEncryptablePropertySource - Property Source Config resource 'class path resource [application.properties]' via location 'optional:classpath:/' refreshed
+2023-02-19 11:49:55.332 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Skipping PropertySource configurationProperties [class org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource
+2023-02-19 11:49:55.332 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Skipping PropertySource servletConfigInitParams [class org.springframework.core.env.PropertySource$StubPropertySource
+2023-02-19 11:49:55.333 [INFO  ] ulisesbocchio.jasyptspringboot.EncryptablePropertySourceConverter - Converting PropertySource servletContextInitParams [org.springframework.web.context.support.ServletContextPropertySource] to EncryptableEnumerablePropertySourceWrapper
+2023-02-19 11:49:55.353 [INFO  ] thilan.log4j2.Log4j2Application - Started Log4j2Application in 2.343 seconds (process running for 3.292)
+2023-02-19 11:49:57.187 [INFO  ] [Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-19 11:49:57.187 [INFO  ] web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-02-19 11:49:57.189 [INFO  ] web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2023-02-19 11:49:57.245 [DEBUG ] log4j2.controller.getEndpoints - Inside Controller:SunJCE

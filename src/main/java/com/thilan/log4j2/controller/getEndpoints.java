@@ -13,14 +13,15 @@ import org.springframework.web.bind.annotation.RestController;
 @Log4j2
 public class getEndpoints {
 
-    @Value("${jasypt.encryptor.provider-name }")
-    private String dbPw;
+
 
     @GetMapping("/hello")
     public ResponseEntity<?> getMessage(){
-        log.debug("Inside Controller:{}",dbPw);
-        return new ResponseEntity<>("Hello World:"+dbPw
+        log.debug("Inside Controller:{}");
+        return new ResponseEntity<>("Hello World:"
                 , HttpStatus.OK);
     }
+
+
 
 }
